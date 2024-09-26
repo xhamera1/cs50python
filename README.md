@@ -1,2 +1,3 @@
-# cs50python
-My solutions to cs50 course python
+# My CS50 python Journey
+
+![CS50python Certificate](CS50Pcertificate_png.png)
