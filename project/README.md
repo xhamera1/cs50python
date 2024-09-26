@@ -9,7 +9,7 @@
 - **Date of Video Recording**: 2024-09-26
 
 ### Video Demo
-[Click here to view the video demo]((https://youtu.be/a_qK1v_ciOU?si=mtOo-zX7brVXtkLT))
+[Click here to view the video demo](https://youtu.be/a_qK1v_ciOU?si=mtOo-zX7brVXtkLT)
 
 #### Description:
 Welcome to the Tic Tac Toe project, a classic console-based game implemented in Python for two players. This project showcases fundamental programming concepts, including game logic, user input handling, and error management. The game allows two players to compete against each other by marking spots on a 3x3 grid, with the objective of placing three of their marks in a horizontal, vertical, or diagonal row before their opponent does.
